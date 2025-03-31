@@ -1,0 +1,9 @@
+adminer.php
+phpmyadmin
+pgadmin
+manager
+status
+server-status
+server-info
+icons/apache_pb2.gif
+icons/poweredby.png

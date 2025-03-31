@@ -1,0 +1,7 @@
+.git
+.git/HEAD
+.svn
+.svn/entries
+.bzr
+.hg
+/cgi-bin/cvsweb.cgi
