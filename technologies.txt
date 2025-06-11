@@ -1,5 +1,14 @@
 adminer.php
+adminer
 phpmyadmin
+pma
+myadmin
+dbadmin
+webadmin
+webmin
+DirectAdmin
+Vestacp
+server-admin
 pgadmin
 manager
 status
@@ -7,3 +16,11 @@ server-status
 server-info
 icons/apache_pb2.gif
 icons/poweredby.png
+apache
+nginx
+lighttpd
+admincp
+client
+multicraft
+whmsonic
+tsadmin
