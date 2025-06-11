@@ -3,3 +3,4 @@ administrator
 administrators
 administration
 cpanel
+manager
