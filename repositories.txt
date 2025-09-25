@@ -1,5 +1,6 @@
 .git
 .git/HEAD
+.gitignore
 .svn
 .svn/entries
 .bzr
