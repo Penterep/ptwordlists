@@ -201,3 +201,13 @@ envrc
 .python-version
 .pypirc
 .condarc
+app/config/config.neon
+app/config/services.neon
+app/config/common.neon
+config/config.neon
+config/services.neon
+config/common.neon
+config.neon
+services.neon
+common.neon
+
