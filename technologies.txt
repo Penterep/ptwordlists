@@ -38,3 +38,10 @@ client
 multicraft
 whmsonic
 tsadmin
+manual
+doc
+docs
+example
+LPT1
+AUX
+.htaccess
