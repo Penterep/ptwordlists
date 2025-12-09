@@ -25,7 +25,7 @@ setuptools.setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
     ],
     python_requires='>=3.12',
-    install_requires=["ptlibs"],
+    install_requires=["ptlibs>=1.0.63,<2"],
     entry_points = {'console_scripts': ['ptwordlists = ptwordlists.ptwordlists:main']},
     include_package_data= True,
     package_data={'ptwordlists': ['wordlists/*']},
