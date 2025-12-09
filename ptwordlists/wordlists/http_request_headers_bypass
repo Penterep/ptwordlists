@@ -20,3 +20,6 @@ X-Originating-IP
 X-Real-IP
 X-Remote-Addr
 X-Remote-IP
+X-Original-URL
+X-Rewrite-URL
+X-Forwarded-Uri
