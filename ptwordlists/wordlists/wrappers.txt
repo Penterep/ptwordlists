@@ -1,0 +1,12 @@
+http
+https
+ftp
+ftps
+file
+php
+data
+zlib
+zip
+glob
+phar
+expect
